@@ -4,8 +4,7 @@ This repository contains analysis code for AFM-based cell mechanics analysis use
 
 **Sequential multiscale mechanics reveals two dominant response modes across timescales in living cells**
 
-The code includes analysis for indentation mechanics, relaxation, rheology, adhesion, tether force, and related data processing. This repository serves as the original development record maintained by Jiajia Wei. A manuscript-related version may also be uploaded to the lab repository/database for publication and record purposes.
-
+The code includes analysis for indentation mechanics, relaxation, rheology, adhesion, tether force, and related data processing developed during this project. 
 
 
 AFM force-curve data were collected using a Nanosurf DriveAFM with Nanosurf software version 13.6 and saved in `.nhf` format.
