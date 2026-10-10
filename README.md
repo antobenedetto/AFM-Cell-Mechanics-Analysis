@@ -1,6 +1,6 @@
 # AFM-Cell-Mechanics-Analysis
 
-This repository contains analysis code developed and organised by Jiajia Wei for AFM-based cell mechanics analysis used in the manuscript:
+This repository contains analysis code for AFM-based cell mechanics analysis used in the manuscript:
 
 **Sequential multiscale mechanics reveals two dominant response modes across timescales in living cells**
 
