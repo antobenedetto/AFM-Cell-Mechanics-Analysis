@@ -2,7 +2,7 @@
 
 This repository contains analysis code for AFM-based cell mechanics analysis used in the manuscript:
 
-**Sequential multiscale mechanics reveals two dominant response modes across timescales in living cells**
+**Sequential Multi-Timescale Atomic Force Microscopy Reveals Distinct Modes of Mechanical Remodelling in Living Cells**
 
 The code includes analysis for young's modulus, Maxwell relaxation, rheology, adhesion, and related data processing developed during this project. 
 
